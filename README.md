@@ -16,4 +16,34 @@ Here are some ideas to get you started:
 -->
 
 🛠 Tech Stacks
-<table> <tr> <th align="left">Languages & Frameworks</th> <td> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> </td> </tr> <tr> <th align="left">Frontend</th> <td> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> </td> </tr> <tr> <th align="left">Database</th> <td> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> </td> </tr> <tr> <th align="left">Tools</th> <td> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> </td> </tr> </table>
+🛠 Tech Stacks
+<table>
+  <tr>
+    <th align="left">Languages & Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Frontend</th>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Database</th>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
