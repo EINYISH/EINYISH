@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     <th align="left">Database</th>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
